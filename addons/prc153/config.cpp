@@ -8,8 +8,8 @@ class CfgPatches {
         requiredAddons[] = {
             "cba_main", "extended_eventhandlers", "CBA_UI", "CBA_XEH", "CBA_XEH_A3",
             "ace_common",
-            "task_force_radio", "task_force_radio_items",
-            "meu_main", "meu_radios"
+            "meu_main",
+            "task_force_radio", "task_force_radio_items"
         };
         author[] = {"11thMEU Dev Team"};
         authorUrl = "http://11thmeu.es";
@@ -18,7 +18,5 @@ class CfgPatches {
 };
 
 #include "CfgEventHandlers.hpp"
-#include "CfgSounds.hpp"
+#include "CfgVehicles.hpp"
 #include "CfgWeapons.hpp"
-
-#include "RadioDialog.hpp"
