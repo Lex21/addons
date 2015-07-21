@@ -11,5 +11,7 @@
     #define DEBUG_SETTINGS DEBUG_ENABLED_EQUIPMENT
 #endif
 
+#include "kit_macros.hpp"
+
 #include "\z\meu\addons\main\script_macros.hpp"
 #include "\z\meu\addons\equipment\script_macros_ui.hpp"

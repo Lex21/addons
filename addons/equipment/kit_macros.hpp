@@ -1,0 +1,1 @@
+#define MEDIC_BACKPACK_EQUIPMENT ""

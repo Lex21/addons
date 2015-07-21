@@ -44,10 +44,11 @@ class Kits {
         secondaryWeapon[] = {};
 
         sideWeapon[] = {
-            "RH_g19t", "RH_g19"
+            "RH_g19", "RH_g19t"
         };
 
     };
+    
     class SquadLeader: baseKit {
         scope = 2;
         displayName = "Squad leader";
