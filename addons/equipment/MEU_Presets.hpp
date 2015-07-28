@@ -11,6 +11,30 @@ class MEU_Presets {
         #include "MEU_Presets\usmc_regular_marpatd.hpp"
     };
 
+    class USMC_Regular_MARPATW_2006 {
+        displayName = "USMC Regular 2006 [MARPAT-W]";
+
+        #include "MEU_Presets\usmc_regular_marpatw.hpp"
+    };
+
+    class USMC_Regular_MARPATD_2006 {
+        displayName = "USMC Regular 2006 [MARPAT-D]";
+
+        #include "MEU_Presets\usmc_regular_marpatd.hpp"
+    };
+
+    class USMC_Regular_DESERT_90 {
+        displayName = "USMC Regular 2006 [Desert]";
+
+        #include "MEU_Presets\usmc_regular_marpatw.hpp"
+    };
+
+    class USMC_Regular_WOODLAND_90 {
+        displayName = "USMC Regular 2006 [Woodland]";
+
+        #include "MEU_Presets\usmc_regular_marpatd.hpp"
+    };
+
     class USMC_Recon_MARPATW {
         displayName = "USMC Regular [MARPAT-W]";
 
